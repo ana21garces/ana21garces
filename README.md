@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/ana21garces">
-    <img src="https://avatars.githubusercontent.com/ana21garces" width="120" height="120" style="border-radius: 50%;" />
+    <img src="https://avatars.githubusercontent.com/ana21garces" width="180" height="180" style="border-radius: 50%;" />
   </a>
 </div>
 
