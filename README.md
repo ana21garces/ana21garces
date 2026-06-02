@@ -1,131 +1,134 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Ana%20Maria%20Garces%20Segura&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20·%20Backend%20Enthusiast&descSize=16&descAlignY=58&descColor=e8d5f0" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=Ana%20Maria%20Garces%20Segura&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20Enthusiast&descSize=16&descAlignY=58&descColor=c9b8e8" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="./profile.jpeg" width="150" style="border-radius:50%; border: 3px solid #c084fc;" />
+  <a href="https://github.com/ana21garces">
+    <img src="https://avatars.githubusercontent.com/ana21garces" width="120" height="120" style="border-radius: 50%;" />
+  </a>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ana--maria--garces--segura20-8b5cf6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-maria-garces-segura20)
-[![Email](https://img.shields.io/badge/Email-ana.garcess%40unac.edu.co-c084fc?style=flat-square&logo=gmail&logoColor=white)](mailto:ana.garcess@unac.edu.co)
-[![Location](https://img.shields.io/badge/Medellín-Colombia-a855f7?style=flat-square&logo=google-maps&logoColor=white)]()
-
+  <a href="https://www.linkedin.com/in/ana-maria-garces-segura20">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ana.garcess@unac.edu.co">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Medellín%2C%20Colombia-302b63?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
+<br/>
 
 ---
 
 ## 👩🏻‍💻 Sobre mí
 
-<table>
-<tr>
-<td>
+Soy desarrolladora de software con **1 año de experiencia**, especializada en backend con **.NET, C# y Blazor**. Estudiante de Ingeniería de Sistemas en la UNAC (Medellín). Me apasiona construir soluciones robustas, escribir código limpio y aprender constantemente.
 
-🔭 Actualmente trabajo con **.NET 8, C# y Blazor**  
-🌱 Apasionada por el **backend** y las arquitecturas limpias  
-🎓 Estudiante de **Ingeniería de Sistemas · UNAC, Medellín**  
-💼 **1 año** de experiencia en desarrollo de software  
-✨ Creo en el código limpio, SOLID y aprender todos los días  
-🚀 Abierta a nuevas oportunidades
-
-</td>
-</tr>
-</table>
-
-> *"La tecnología es más poderosa cuando se construye con propósito."*
+- 🔭 Actualmente trabajando con `.NET 8` · `C#` · `ASP.NET Core` · `Blazor`
+- 🌱 Apasionada por el **backend**, las APIs REST y las arquitecturas limpias
+- 💡 Creo en los principios **SOLID** y en el código que se explica solo
+- 🤝 Me encanta colaborar en equipo y aportar soluciones con impacto real
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack tecnológico
 
-### Stack principal
-![C#](https://img.shields.io/badge/C%23-8b5cf6?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-7c3aed?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-6d28d9?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-5b21b6?style=for-the-badge&logo=blazor&logoColor=white)
+### 🔷 Principal
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Backend & frameworks
-![Java](https://img.shields.io/badge/Java-c084fc?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-a855f7?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-9333ea?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-7c3aed?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8b5cf6?style=for-the-badge&logo=python&logoColor=white)
+### ☕ Backend & otros frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Bases de datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c084fc?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-a855f7?style=for-the-badge&logo=mysql&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-7c3aed?style=for-the-badge&logo=dotnet&logoColor=white)
+### 🗄️ Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend & diseño
-![Blazor WASM](https://img.shields.io/badge/Blazor_WASM-8b5cf6?style=for-the-badge&logo=blazor&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-c084fc?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-a855f7?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-9333ea?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-7c3aed?style=for-the-badge&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-8b5cf6?style=for-the-badge&logo=flutter&logoColor=white)
+### 🌐 Frontend & diseño
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Herramientas & DevOps
-![Git](https://img.shields.io/badge/Git-c084fc?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8b5cf6?style=for-the-badge&logo=linux&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-c084fc?style=for-the-badge&logo=powerbi&logoColor=white)
+### ⚙️ DevOps & herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🌿 **Univita** | Plataforma universitaria de bienestar y estilo de vida saludable | Node.js · PostgreSQL · React |
-| 💼 **UNACJOBS** | Plataforma de empleabilidad para la comunidad universitaria | Java · Spring Boot |
-| ♿ **Effatá** | App de subtítulos en tiempo real para personas con discapacidad auditiva | Flutter · Figma |
-| 🦅 **Alas en Alerta** | Proyecto de investigación universitaria | UNAC Semillero |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌿 Univita</h3>
+      <p>Plataforma universitaria de bienestar y estilo de vida saludable. Incluye encuestas HPLP, reportes y recomendaciones personalizadas.</p>
+      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></p>
+    </td>
+    <td width="50%">
+      <h3>💼 UNACJOBS</h3>
+      <p>Plataforma de empleabilidad para conectar estudiantes y empresas dentro de la comunidad universitaria UNAC.</p>
+      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>♿ Effatá</h3>
+      <p>App de subtítulos en tiempo real y traducción a lenguaje de señas para personas con discapacidad auditiva en contextos de iglesia.</p>
+      <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /></p>
+    </td>
+    <td width="50%">
+      <h3>🦅 Alas en Alerta</h3>
+      <p>Proyecto de investigación desarrollado en el semillero de investigación de la Corporación Universitaria Adventista.</p>
+      <p><img src="https://img.shields.io/badge/UNAC-302b63?style=flat-square&logoColor=white" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ana21garces&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana21garces&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana21garces&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=e8d5f0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana21garces&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e8d5f0)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana21garces&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 🏅 Certificaciones
 
-- 🏅 **Databricks Fundamentals** — Databricks *(2026)*
-- 🔬 **Plataforma para promover el Estilo de Vida Saludable** — UNAC Semilleros *(2025)*
-- 💼 **UNACJOBS** — UNAC Semilleros *(2025)*
-- 🦅 **Alas en Alerta** — UNAC Semilleros *(2024)*
-
----
-
-## ✦ Principios de desarrollo
-
-```
-✦  Clean code sobre código que "solo funciona"
-✦  SOLID como filosofía, no como lista de reglas
-✦  El backend bien hecho es lo que sostiene todo lo demás
-✦  Documentar es un acto de respeto hacia el equipo
-✦  Aprender todos los días, sin excepción
-```
+| Certificación | Institución | Año |
+|---|---|---|
+| 🏅 Databricks Fundamentals | Databricks | 2026 |
+| 🔬 Plataforma Estilo de Vida Saludable | UNAC Semilleros | 2025 |
+| 💼 UNACJOBS | UNAC Semilleros | 2025 |
+| 🦅 Alas en Alerta | UNAC Semilleros | 2024 |
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=120&section=footer" />
 </div>
